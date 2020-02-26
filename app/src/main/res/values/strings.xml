@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">THA_APP_174173D</string>
+    <string name="err_name">Please Enter Name</string>
+    <string name="err_tel">Please Enter Valid Mobile Number</string>
+    <string name="err_email">Please Enter Valid Email</string>
+    <string name="err_password">Password Weak</string>
+    <string name="err_password_confirmation">Passwords Not Matched</string>
+    <string name="invalid_phone">Invalid Index Number</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='THA_APP_174173D'
